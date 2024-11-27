@@ -22,3 +22,23 @@ Ensure the following tools and dependencies are installed and configured:
 Clone the project from the repository:
 ```bash
 git clone https://github.com/AravindNagarajan9894/FitpeoAssesment.git
+
+## Running the Automation Scripts
+
+1. Run Tests with Master XML
+This XML file executes the tests sequentially in a single browser environment.
+ Navigate to the testng.xml file in the project.
+ Right-click and select Run As > TestNG Suite.
+
+2. Run Cross-Browser Tests
+This configuration allows tests to run in multiple browsers.
+Navigate to the testng-cross-browser.xml file.
+Right-click and select Run As > TestNG Suite.
+
+3. Run Tests in Parallel
+This XML file runs tests in parallel across different browsers.
+Navigate to the testng-parallel.xml file.
+Right-click and select Run As > TestNG Suite.
+
+
+
