@@ -20,7 +20,7 @@ Ensure the following tools and dependencies are installed and configured:
 
 ### Clone the Repository
 Clone the project from the repository:
-```bash
+
 git clone https://github.com/AravindNagarajan9894/FitpeoAssesment.git
 
 ### Running the Automation Scripts
