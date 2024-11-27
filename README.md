@@ -23,6 +23,11 @@ Clone the project from the repository:
 
 git clone https://github.com/AravindNagarajan9894/FitpeoAssesment.git
 
+### Import the Project into IDE.
+### Install Dependencies:
+Open the pom.xml file.
+Right-click and select Maven > Update Project to download all dependencies.
+
 ---
 
 ### Running the Automation Scripts
@@ -54,4 +59,4 @@ Open the index.html file to view the report.
 Log files are generated in the logs directory (configured in log4j2.xml).
 Default file: automation.log.
 
-
+---
