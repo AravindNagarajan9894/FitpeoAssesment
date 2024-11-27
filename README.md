@@ -18,13 +18,14 @@ Ensure the following tools and dependencies are installed and configured:
 
 ## Setup
 
-### Clone the Repository
+### 1.Clone the Repository
 Clone the project from the repository:
 
 git clone https://github.com/AravindNagarajan9894/FitpeoAssesment.git
 
-### Import the Project into IDE.
-### Install Dependencies:
+### 2.Import the Project into IDE.
+
+### 3.Install Dependencies:
 Open the pom.xml file.
 Right-click and select Maven > Update Project to download all dependencies.
 
