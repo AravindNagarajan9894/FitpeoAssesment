@@ -60,10 +60,12 @@ Right-click and select Run As > TestNG Suite.
 
 ### TestNG Report:
 After execution, a detailed TestNG HTML report is generated in the test-output folder.
+
 Open the index.html file to view the report.
 
 ### Logs:
 Log files are generated in the logs directory (configured in log4j2.xml).
+
 Default file: automation.log.
 
 ---
