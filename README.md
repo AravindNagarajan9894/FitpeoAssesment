@@ -22,7 +22,7 @@ Ensure the following tools and dependencies are installed and configured:
 Clone the project from the repository:
 ```bash
 git clone https://github.com/AravindNagarajan9894/FitpeoAssesment.git
-
+```bash
 ## Running the Automation Scripts
 
 1. Run Tests with Master XML
